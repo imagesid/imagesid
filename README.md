@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imagesid
 - 👀 I’m interested in Software Sciences
-- 🌱 I’m currently learning Brotli Compression
-- 💞️ I’m looking to collaborate on Compression Method
+- 🌱 I’m currently learning Neural Network, Indexes, Compression and Encryption algorithms
+- 💞️ I’m looking to collaborate on those fields
 - 📫 You can contact me at agungnet@dankook.ac.kr
 
 <!---
