@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imagesid
 - 👀 I’m interested in Software Sciences
-- 🌱 I’m currently learning Neural Network, Indexes, Compression and Encryption algorithms
+- 🌱 I’m currently learning Neural Network, Indexes, Persistent Memory and Cache
 - 💞️ I’m looking to collaborate on those fields
 - 📫 You can contact me at agung@dankook.ac.kr
 
